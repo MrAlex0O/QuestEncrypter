@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uthbzKoyG74NU8PL1QiX2l9m1pWOluYIPkSZTEt2NX3uTJA4+CUteGSIixOB9yaP5Dq5E/PYiKO0iaIcO1MQEQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\QuestEncrypter\\QuestEncrypter\\QuestEncrypter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ist_7\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ist_7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ist_7\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\ist_7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

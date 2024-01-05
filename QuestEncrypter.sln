@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestEncrypter", "QuestEncrypter\QuestEncrypter.csproj", "{DCB10CAA-A447-4F7F-A241-707A56E0A574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrypterAPI", "EncrypterAPI\EncrypterAPI.csproj", "{A2373071-DC97-4F58-B9AB-594A8656AE04}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DCB10CAA-A447-4F7F-A241-707A56E0A574} = {DCB10CAA-A447-4F7F-A241-707A56E0A574}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB10CAA-A447-4F7F-A241-707A56E0A574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB10CAA-A447-4F7F-A241-707A56E0A574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB10CAA-A447-4F7F-A241-707A56E0A574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB10CAA-A447-4F7F-A241-707A56E0A574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2373071-DC97-4F58-B9AB-594A8656AE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2373071-DC97-4F58-B9AB-594A8656AE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2373071-DC97-4F58-B9AB-594A8656AE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2373071-DC97-4F58-B9AB-594A8656AE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A92BE7-3328-4E56-82F0-7EA4AB74826F}
+	EndGlobalSection
+EndGlobal
