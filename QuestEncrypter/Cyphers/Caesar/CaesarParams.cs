@@ -8,7 +8,7 @@ public class CaesarParams : ICypherParams
 
     public CaesarParams ReverseOffset()
     {
-        Offset *= -1;
+        Offset = Alphabet.Length - Offset;
         return this;
     }
 }
